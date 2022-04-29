@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="T1">DailyExpenses</string>
+    <string name="Line">____________________________________________________</string>
+    <string name="tv2">Total Expenses</string>
+    <string name="tv3">Record</string>
+    <string name="tv4">Please Pick a Day</string>
+    <string name="tv5">0.0</string>
+    <string name="tv6">HKD</string>
+    <string name="hint1">You may input some detail here...</string>
+    <string name="hint2">Input your type</string>
+    <string name="hint3">Input Price($)</string>
+
+    <string name="DATE">JAN 01 2022</string>
+
+    <string name="btn1">Show</string>
+    <string name="btn2">Add New</string>
+
+    <string name="et1">Main Themes</string>
+    <string name="et2">Remark</string>
+    <string name="btn3">Check</string>
+    <string name="btn4">Save</string>
+    <string name="btn5">select</string>
+
+    <string name="t1">Date:</string>
+    <string name="t2">Type:</string>
+    <string name="t3">Price:</string>
+    <string name="t4">Comment:</string>
+    <string name="t5">1.you click the current date to select the day.\n2.click the current date again to close the date picker.\n3.click the select button to confirm the date.\n4.you can use the spinner to select the type of your spending.\n5.you can input the price and some detail in the two boxes below the spinner.\n6. When you finish you can click the save button to save and back to the main page to view your input and history input.</string>
+
+
+
+    <string-array name="Type">
+        <item>Food</item>
+        <item>Travel</item>
+        <item>Medical</item>
+        <item>Consumption</item>
+        <item>Rent</item>
+    </string-array>
+
+
+</resources>
